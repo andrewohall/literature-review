@@ -4,5 +4,7 @@ litreviewer is a Python package (collection of few Python modules) that helps re
 Video demonstrations
 
 https://www.youtube.com/watch?v=y7l3CD0jYyE
+
 https://www.youtube.com/watch?v=6Mm4Y6kTLMI
+
 https://www.youtube.com/watch?v=bB38mYRISow
